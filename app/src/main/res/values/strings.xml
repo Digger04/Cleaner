@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cleaner</string>
+    <string name="some_items_can_be_optimized">Some items can be optimized</string>
+    <string name="optimized">Optimized</string>
+    <string name="clean_up_memory">Clean up memory</string>
+    <string name="scan_virus">Scan virus</string>
+    <string name="hardwaretest">Hardware test</string>
+    <string name="cleanphotoandvideo">Clean photo and video</string>
+    <string name="speedupgame">Speed up game</string>
+    <string name="deepclen">Deep clean</string>
+    <string name="clean_memory">Clean Memory</string>
+    <string name="clean_up">Clean up</string>
+    <string name="speed_up">Speed up</string>
+    <string name="settings">Setting</string>
+    <string name="show_notification_bar">Show notification bar</string>
+    <string name="manage_shortcuts">Manage shortcuts</string>
+</resources>

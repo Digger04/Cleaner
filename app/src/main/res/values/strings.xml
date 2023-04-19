@@ -14,4 +14,8 @@
     <string name="settings">Setting</string>
     <string name="show_notification_bar">Show notification bar</string>
     <string name="manage_shortcuts">Manage shortcuts</string>
+    <string name="feature_settings">Feature settings</string>
+    <string name="trash_can_size_limit">Trash can size limit</string>
+    <string name="daily">Daily</string>
+    <string name="schedule">Schedule</string>
 </resources>
